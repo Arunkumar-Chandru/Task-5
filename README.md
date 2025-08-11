@@ -43,8 +43,5 @@ A simple Java program that simulates basic bank operations such as deposit, with
 
 ## 🖥 Example Output
 
-![Sample Output](https://i.imgur.com/0jH82QE.png) 
-
-
-## 🖥 Example Output
+![Sample Output](Screenshot.png) 
 
