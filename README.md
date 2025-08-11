@@ -14,15 +14,6 @@ A simple Java program that simulates basic bank operations such as deposit, with
 
 ---
 
-## 🚀 Features
-- Create a bank account with an initial balance.
-- Deposit money into the account.
-- Withdraw money with balance validation.
-- View complete transaction history.
-- Menu-driven console application.
-
----
-
 ## 📜 How It Works
 1. **Account Creation**  
    - User enters their name and initial balance.
